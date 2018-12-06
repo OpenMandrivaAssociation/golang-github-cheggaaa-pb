@@ -1,0 +1,5 @@
+hash: a488404c27fa18abb0f078da0def39d49dd0cbc214099bf6be38d53416e8d9b0
+imports:
+- name: github.com/mattn/go-runewidth
+  version: 14207d285c6c197daabb5c9793d63e7af9ab2d50
+updated: '2018-06-09T12:44:25.022882+00:00'
